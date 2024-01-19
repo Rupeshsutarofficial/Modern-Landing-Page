@@ -14,6 +14,11 @@ Welcome to my modern landing page project! This project showcases a stylish and 
 
 [Explore the live demo](https://rupeshsutarofficial.github.io/Modern-Landing-Page/)
 
+
+## Screenshots
+
+![Modernlandingpage](https://github.com/Rupeshsutarofficial/Modern-Landing-Page/assets/146075201/8d243997-567f-4aad-94a0-7b2edb253840)
+
 ## Technologies Used
 
 - HTML
@@ -44,13 +49,6 @@ Customize the content and styles to match your branding. Explore the JavaScript 
 ## Contributing
 
 Feel free to contribute by opening issues or submitting pull requests. Your feedback and contributions are highly appreciated!
-
-## Screenshots
-
-Include a GIF to showcase the interactive features of your landing page.
-
-![Modernlandingpage](https://github.com/Rupeshsutarofficial/Modern-Landing-Page/assets/146075201/8d243997-567f-4aad-94a0-7b2edb253840)
-
 
 I hope you enjoy exploring this modern landing page! ✨
 
